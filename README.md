@@ -1,2 +1,2 @@
-# clario
-spurhacks 2025
+# clario :)
+![Clario Thumbnail](assets/title.png)

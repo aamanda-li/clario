@@ -1,2 +1,2 @@
-# clario :)
+# more to come soon...
 ![Clario Thumbnail](assets/title.png)
